@@ -37,6 +37,8 @@ For a **Full Stack JavaScript** interview, don't start by saying _"We used Kafka
 
 ---
 
+![alt text](Event-Driven-Notification.png)
+
 ## Give a real example
 
 > Suppose a manager approves an invoice.
@@ -140,5 +142,3 @@ A strong answer is:
 **TypeScript | Node.js | Express.js | React | PostgreSQL | Redis (BullMQ) | REST APIs | Socket.IO | Git**
 
 This explanation shows both your understanding of the business value and the technical design, which is what interviewers typically look for.
-
-![alt text](Event-Driven-Notification.png)
